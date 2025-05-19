@@ -8,3 +8,7 @@ Atualmente, estou em busca de oportunidades para aplicar e expandir meus conheci
 Meu comprometimento com o crescimento profissional também se reflete no meu estudo contínuo de Inglês, o que me permite comunicar e colaborar de forma eficaz em ambientes multiculturais e internacionais.
 
 Estou entusiasmado para aplicar minhas habilidades técnicas e minha paixão por resolução de problemas em desafios reais e estou aberto a novas oportunidades de aprendizado e crescimento na área de tecnologia.
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemirSoares&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
