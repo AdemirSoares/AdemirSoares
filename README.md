@@ -15,8 +15,8 @@ Estou entusiasmado para aplicar minhas habilidades técnicas e minha paixão por
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=Projeto_6.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=Projeto_6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=eplay.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=eplay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=exercício_projeto_5.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=exercício_projeto_5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
