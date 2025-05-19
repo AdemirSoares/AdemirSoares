@@ -12,3 +12,11 @@ Estou entusiasmado para aplicar minhas habilidades técnicas e minha paixão por
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemirSoares&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=Projeto_6.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=eplay.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemirSoares&repo=exercício_projeto_5.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
